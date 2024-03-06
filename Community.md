@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Devendra</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Devendraxp</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/devendra-dhuvan</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology Nagpur</td>
+      </tr>
+    </table>
